@@ -1,0 +1,17 @@
+# add .env to project with the next variables
+# PORT=3000
+# DB_HOST = '127.0.0.1'
+# DB_USER = 'root'
+# DB_PASSWORD='secret-123'
+# DB_DATABASE = 'db-test'
+# GHIBLIAPI_URL_BASE = 'https://ghibliapi.vercel.app'
+
+# create a new database named 'db-test'
+# execute in your database the file user.sql
+
+# start the server and compile typescript (in package.json´scripts found the available scripts)
+
+# npm i
+# npm run dev (recommended) or npm run start (with this command typescript is not compiled)
+
+# postman documentation (available endpoints to test).
